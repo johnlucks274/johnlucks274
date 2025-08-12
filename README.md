@@ -1,5 +1,6 @@
-## my name is joao lucas 
-sou foda 🥇
+## my name is 
+**joao lucas**
+🥇
 
 **johnlucks274/johnlucks274** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +15,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![](https://media1.tenor.com/m/wa_zOrxfevcAAAAd/lamine-yamal.gif)
